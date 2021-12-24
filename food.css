@@ -1,6 +1,6 @@
 
 .background-image {
-    background-image: url("image/cook2.jpg");
+    background-image: url(cook2.jpg");
     min-height: 457px;
     background-repeat: no-repeat;
     background-size: cover;
